@@ -1,0 +1,25 @@
+{
+  "name": "ng-html-to-markdown",
+  "version": "0.9.0",
+  "homepage": "https://github.com/lquijada/ng-html-to-markdown",
+  "authors": [
+    "Luis Quijada <quijada.serrano.luis@gmail.com>"
+  ],
+  "description": "AngularJS Html to Markdown",
+  "keywords": [
+    "angularjs",
+    "markdown"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "to-markdown": "~0.0.3"
+  }
+}
